@@ -1,0 +1,12 @@
+jbr\springmvc\controller\LoginController.class
+jbr\springmvc\model\Customer.class
+jbr\springmvc\dao\CustomerDAO.class
+jbr\springmvc\dao\UserDaoImpl.class
+jbr\springmvc\dao\UserMapper.class
+jbr\springmvc\service\UserServiceImpl.class
+jbr\springmvc\service\UserService.class
+jbr\springmvc\model\User.class
+jbr\springmvc\model\Login.class
+jbr\springmvc\controller\CustomerRestController.class
+jbr\springmvc\dao\UserDao.class
+jbr\springmvc\controller\RegistrationController.class
